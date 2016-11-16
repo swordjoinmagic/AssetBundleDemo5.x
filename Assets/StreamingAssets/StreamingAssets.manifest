@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1560722854
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: jushiguai.assetbundle
+      Dependencies:
+        Dependency_0: materials/mat1.assetbundle
+        Dependency_1: materials/mat2.assetbundle
+    Info_1:
+      Name: materials/mat1.assetbundle
+      Dependencies:
+        Dependency_0: texture/jushiguai_01.assetbundle
+    Info_2:
+      Name: materials/mat2.assetbundle
+      Dependencies:
+        Dependency_0: texture/jushiguai_02.assetbundle
+    Info_3:
+      Name: materials/standard_13.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: texture/jushiguai_01.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: texture/jushiguai_02.assetbundle
+      Dependencies: {}
