@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 /*****************************************************************************
-* @author : 张蕴星
+* @author : Zhang Yunxing
 * @date : 2016/11/16 15:20
 * @instructions : AssetBundle的加载，采用字典存贮依赖项，避免频繁地加载和卸载AssetBundle
 *****************************************************************************/

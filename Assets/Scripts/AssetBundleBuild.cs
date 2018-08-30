@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 /*****************************************************************************
-* @author : 张蕴星
+* @author : Zhang Yunxing
 * @date : 2016/11/16 15:16
 * @instructions : AssetBundle打包
 *****************************************************************************/
